@@ -10,3 +10,7 @@ template '/var/www/index.html' do
   mode '0755'
   source 'index.html.erb'
 end
+
+
+
+
